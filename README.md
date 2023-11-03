@@ -13,7 +13,7 @@
 
 ### Hi there 👋 I'm Swathi Balasubramanyam
 
-I'm an experienced software quality assurance engineer / software engineer, known for my curious nature and as a person who consistently thinks ahead. I joined Uncommon/Recruiter.ai as software quality engineer intern and was soon promoted multiple times and ended as a software developer. During my time at uncommon I  discovered my passion for coding and the power it has to built great products. After a career break, I joined App Academy and underwent an intensive, immersive training that covered full-stack web development including technologies like JavaScript, Ruby, Ruby on Rails, React, Redux, SQL and MongoDB. I am currently looking for a new role where I can make an impact and work alongside a highly motivated and passionate team.
+I'm an experienced software quality assurance engineer / software engineer, known for my curious nature and as a person who consistently thinks ahead. During my time at Uncommon/Recruiter.ai I discovered my passion for coding and the power it has to build great products and started teaching myself some of the web development technologies. During covid had to take a career break, after which I joined App Academy and underwent an intensive, immersive training that covered full-stack web development including technologies like JavaScript, Ruby, Ruby on Rails, React, Redux, SQL and MongoDB. I am currently looking for a new role where I can make an impact and work alongside a highly motivated and passionate team.
 
 ### :hammer_and_wrench: Languages, frameworks, technologies I`ve worked with
 <div>
